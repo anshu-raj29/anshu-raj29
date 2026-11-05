@@ -1,4 +1,4 @@
-# Hi, I'm Anshu Raj
+# 👋 Hi, I'm Anshu Raj
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Data+Science+%26+AI%2FML+Enthusiast;Full-Stack+Developer;Building+Solutions+That+Matter" alt="Typing SVG" />
@@ -101,77 +101,72 @@ I believe in continuous learning, practical problem-solving, and using technolog
 
 ## 🚀 Featured Projects
 
-### 1. ATS Resume Scorer & Job Matching Platform
+### 1. SnapClass – AI Attendance Management System
+
+**Tech Stack:** Python | Streamlit | Supabase | Dlib | Scikit-learn
+
+An AI-powered attendance management system that automates attendance tracking using facial recognition and machine learning.
+
+- Implemented face detection and 128-dimensional facial embeddings using Dlib.
+- Applied machine learning classification for face recognition.
+- Integrated Supabase for database management and attendance records.
+- Developed an interactive Streamlit dashboard.
+
+🔗 **[View Repository](https://github.com/anshu-raj29/snapclass-ai-attendance)**
+
+### 2. Real-Time AI Gym Coach
+
+**Tech Stack:** Python | OpenCV | MediaPipe | Computer Vision
+
+An AI-powered fitness application that analyzes body movements and provides real-time feedback to assist users during workouts.
+
+- Implemented real-time human pose estimation using MediaPipe.
+- Analyzed body landmarks to track exercise movements.
+- Developed repetition counting and workout tracking functionality.
+- Designed real-time feedback to help users improve exercise form.
+
+🔗 **[View Repository](https://github.com/anshu-raj29/REPLACE-WITH-GYM-REPOSITORY)**
+
+### 3. ATS Resume Scorer & Job Matching Platform
 
 **Tech Stack:** Python | FastAPI | Streamlit | NLP | Sentence Transformers | Supabase
 
 An AI-powered platform that evaluates resumes against job descriptions and generates compatibility scores, skill-gap analysis, semantic matching, and personalized improvement recommendations.
 
 - Implemented NLP-based skill extraction and semantic similarity matching.
-- Developed a FastAPI backend and Streamlit frontend.
+- Developed skill-gap identification and personalized recommendations.
+- Built a FastAPI backend and Streamlit frontend.
 - Integrated Supabase for authentication and analysis history.
 - Implemented downloadable PDF evaluation reports.
 
 🔗 **[View Repository](https://github.com/anshu-raj29/ats-resume-scorer)**
 
-### 2. FinGuard – Transaction Monitoring System
+### 4. NexCart – Full-Stack E-Commerce Platform
 
-**Tech Stack:** Python | PySpark | Databricks | Apache Kafka | Confluent Cloud | SQL
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB | Razorpay | Cloudinary
 
-A data engineering project designed to process financial transactions and identify potentially suspicious activities through a streaming pipeline.
+A full-stack e-commerce application designed to provide a seamless online shopping experience with product management and payment integration.
 
-- Developed a PySpark streaming pipeline on Databricks.
-- Integrated Apache Kafka for transaction data ingestion.
-- Processed transaction records and fraud watchlist data.
-- Organized data processing using Bronze and Silver architecture.
+- Developed a responsive frontend using React.js.
+- Built RESTful APIs using Node.js and Express.js.
+- Integrated MongoDB for product and application data management.
+- Integrated Razorpay for online payment processing.
+- Used Cloudinary for image storage and management.
 
-🔗 **[View Repository](https://github.com/anshu-raj29/finguard)**
+🔗 **[View Repository](https://github.com/anshu-raj29/REPLACE-WITH-NEXCART-REPOSITORY)**
 
-### 3. AI Interview Platform
+### 5. AI Interview Platform
 
 **Tech Stack:** Python | LangGraph | Groq API | LLMs
 
-An AI-powered interview platform designed to facilitate interactive interview experiences using Large Language Models.
+An AI-powered interview platform designed to provide interactive interview experiences using Large Language Models.
 
-- Integrated LLM-based conversational workflows.
-- Used LangGraph to structure interview interactions.
-- Leveraged Groq API for AI-powered responses.
+- Implemented LLM-powered conversational interview workflows.
+- Used LangGraph to structure and manage interview interactions.
+- Integrated Groq API for AI-generated responses.
+- Designed an interactive experience for interview practice.
 
 🔗 **[View Repository](https://github.com/anshu-raj29/AI-Interview-Platform)**
-
-### 4. SnapClass – AI Attendance Management System
-
-**Tech Stack:** Python | Streamlit | Supabase | Dlib | Scikit-learn
-
-An AI-powered attendance management application that uses facial recognition and machine learning to automate attendance tracking.
-
-- Implemented face detection and 128-dimensional facial embeddings.
-- Used machine learning classification for face recognition.
-- Integrated Supabase for attendance and database management.
-- Developed an interactive Streamlit interface.
-
-🔗 **[View Repository](https://github.com/anshu-raj29/snapclass-ai-attendance)**
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anshu-raj29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-raj29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anshu-raj29&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshu-raj29&theme=tokyonight&no-frame=true&margin-w=8&column=4" alt="GitHub Trophies"/>
-</p>
 
 ---
 
