@@ -1,102 +1,193 @@
-<h1 align="center">Anshu Raj</h1>
+# 👋 Hi, I'm Anshu Raj
 
 <p align="center">
-  <b>Aspiring Software Developer</b> &nbsp;|&nbsp; Data Science & AI/ML &nbsp;|&nbsp; Full-Stack Development
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Data+Science+%26+AI%2FML+Enthusiast;Full-Stack+Developer;Building+Solutions+That+Matter" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  MCA Student at <b>VIT Chennai</b>
+  <b>MCA Student | VIT Chennai</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anshu-raj29"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/anshu-raj29"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://instagram.com/anshuraj.29"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
----
-
-## About Me
-
-I'm a Master of Computer Applications student at **VIT Chennai** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Full-Stack Development**. I enjoy building data-driven applications and practical solutions to real-world problems, covering the full lifecycle: analyzing data, training models, designing responsive frontends, and building scalable backends.
-
-| | |
-|---|---|
-| **Currently working on** | Data science projects, AI-powered applications, and full-stack web development |
-| **Currently exploring** | Generative AI, Large Language Models (LLMs), Deep Learning, and Cloud Computing |
-| **Open to collaborate on** | Data Science, Machine Learning, AI/ML, and Full-Stack projects |
-| **Core interests** | Python, Java, C++, SQL, Machine Learning, Data Analysis, FastAPI, React.js |
-| **Career goal** | Build impactful software by combining data, AI, and modern software engineering |
-
----
-
-## Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend & Backend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Data Science & Machine Learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-
----
-
-## Featured Projects
-
-<!-- Replace the placeholders below with your best 2-4 projects. -->
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Project Name**](https://github.com/anshu-raj29/repo-name) | One line on what it does and the problem it solves. | Python, FastAPI, React |
-| [**Project Name**](https://github.com/anshu-raj29/repo-name) | One line on what it does and the problem it solves. | Python, Scikit-Learn, Streamlit |
-| [**Project Name**](https://github.com/anshu-raj29/repo-name) | One line on what it does and the problem it solves. | Java, MySQL |
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=anshu-raj29&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=anshu-raj29&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anshu-raj29&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://linkedin.com/in/anshu-raj29">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/anshu-raj29">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/anshuraj.29">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
+## 👨‍💻 About Me
+
+Hi, I'm **Anshu Raj**, an MCA student at **Vellore Institute of Technology (VIT), Chennai**, passionate about building intelligent applications and scalable software solutions.
+
+I have a strong interest in **Data Science, Artificial Intelligence, Machine Learning, and Full-Stack Development**. I enjoy working across the software development lifecycle, from data analysis and model development to backend engineering and interactive frontend development.
+
+I believe in continuous learning, practical problem-solving, and using technology to create meaningful real-world impact.
+
+### 🚀 What I'm Up To
+
+- 🔭 **Working On:** AI-powered applications, Data Science projects, and full-stack development.
+- 🌱 **Learning:** Generative AI, Large Language Models (LLMs), Deep Learning, and Cloud Computing.
+- 👯 **Collaboration:** Open to contributing to Data Science, AI/ML, and Full-Stack Development projects.
+- 💡 **Interests:** Data Analytics, Machine Learning, NLP, Backend Development, and Software Engineering.
+- 🎯 **Goal:** To build impactful, intelligent, and scalable technology solutions.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Frontend & Backend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### Data Science, AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### Databases & Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+### Developer Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 1. ATS Resume Scorer & Job Matching Platform
+
+**Technologies:** Python, FastAPI, Streamlit, NLP, Sentence Transformers, Supabase
+
+An AI-powered platform that evaluates resumes against job descriptions and provides compatibility scores, skill-gap analysis, semantic matching, and personalized improvement recommendations.
+
+- Implemented NLP-based skill extraction and semantic similarity matching.
+- Developed a FastAPI backend and Streamlit frontend.
+- Integrated Supabase for authentication and analysis history.
+- Implemented downloadable PDF evaluation reports.
+
+🔗 [View Repository](https://github.com/anshu-raj29/ats-resume-scorer)
+
+### 2. FinGuard – Transaction Monitoring System
+
+**Technologies:** Python, PySpark, Databricks, Apache Kafka, Confluent Cloud, SQL
+
+A real-time transaction monitoring and data engineering project designed to process financial transactions and identify potentially suspicious activities.
+
+- Developed a PySpark streaming pipeline on Databricks.
+- Integrated Apache Kafka for transaction data ingestion.
+- Processed transaction records and fraud watchlist data.
+- Organized data processing using Bronze and Silver architecture.
+
+🔗 [View Repository](https://github.com/anshu-raj29/finguard)
+
+### 3. AI Interview Platform
+
+**Technologies:** Python, LangGraph, Groq API, LLMs
+
+An AI-powered interview platform designed to facilitate interactive interview experiences using Large Language Models.
+
+- Integrated LLM-based conversational workflows.
+- Used LangGraph to structure interview interactions.
+- Leveraged Groq API for AI-powered responses.
+
+🔗 [View Repository](https://github.com/anshu-raj29/AI-Interview-Platform)
+
+### 4. SnapClass – AI Attendance Management System
+
+**Technologies:** Python, Streamlit, Supabase, Dlib, Scikit-learn
+
+An AI-powered attendance management application that uses facial recognition and machine learning to automate attendance tracking.
+
+- Implemented face detection and 128-dimensional facial embeddings.
+- Used machine learning classification for face recognition.
+- Integrated Supabase for attendance and database management.
+- Developed an interactive Streamlit interface.
+
+🔗 [View Repository](https://github.com/anshu-raj29/snapclass-ai-attendance)
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  Open to internships, collaborations, and conversations about data, AI, and software.<br/>
-  <a href="https://linkedin.com/in/anshu-raj29">Let's connect on LinkedIn</a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshu-raj29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-raj29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anshu-raj29&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshu-raj29&theme=tokyonight&no-frame=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, exploring innovative ideas, and collaborating on meaningful projects.
+
+<p align="center">
+  <a href="https://linkedin.com/in/anshu-raj29">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anshu-raj29">
+    <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b><br/>
+  <i>Keep learning. Keep building. Keep growing.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshu-raj29&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views"/>
 </p>
