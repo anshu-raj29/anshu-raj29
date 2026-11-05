@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anshu Raj
+# Hi, I'm Anshu Raj
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Data+Science+%26+AI%2FML+Enthusiast;Full-Stack+Developer;Building+Solutions+That+Matter" alt="Typing SVG" />
