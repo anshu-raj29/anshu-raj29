@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Anshu Raj
+# Hi, I'm Anshu Raj
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Data+Science+%26+AI%2FML+Enthusiast;Full-Stack+Developer;Building+Solutions+That+Matter" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>MCA Student | VIT Chennai</b>
+  <b>MCA Student | Vellore Institute of Technology (VIT), Chennai</b>
 </p>
 
 <p align="center">
@@ -32,17 +32,18 @@ I believe in continuous learning, practical problem-solving, and using technolog
 
 ### 🚀 What I'm Up To
 
-- 🔭 **Working On:** AI-powered applications, Data Science projects, and full-stack development.
-- 🌱 **Learning:** Generative AI, Large Language Models (LLMs), Deep Learning, and Cloud Computing.
-- 👯 **Collaboration:** Open to contributing to Data Science, AI/ML, and Full-Stack Development projects.
-- 💡 **Interests:** Data Analytics, Machine Learning, NLP, Backend Development, and Software Engineering.
-- 🎯 **Goal:** To build impactful, intelligent, and scalable technology solutions.
+- 🔭 **Currently Working On:** AI-powered applications, Data Science projects, and full-stack development.
+- 🌱 **Currently Learning:** Generative AI, Large Language Models (LLMs), Deep Learning, and Cloud Computing.
+- 👯 **Open to Collaborate On:** Data Science, Machine Learning, AI/ML, and Full-Stack Development projects.
+- 💡 **Technical Interests:** Data Analytics, NLP, Backend Development, and Software Engineering.
+- 🎯 **Career Goal:** To build impactful, intelligent, and scalable technology solutions.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -52,7 +53,8 @@ I believe in continuous learning, practical problem-solving, and using technolog
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Frontend & Backend Development
+### 🌐 Frontend & Backend Development
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -63,17 +65,19 @@ I believe in continuous learning, practical problem-solving, and using technolog
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-### Data Science, AI & Machine Learning
+### 🤖 Data Science, AI & Machine Learning
+
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
-### Databases & Data Engineering
+### 🗄️ Databases & Data Engineering
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -84,7 +88,8 @@ I believe in continuous learning, practical problem-solving, and using technolog
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### Developer Tools & Platforms
+### ⚙️ Developer Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -94,37 +99,37 @@ I believe in continuous learning, practical problem-solving, and using technolog
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
 ### 1. ATS Resume Scorer & Job Matching Platform
 
-**Technologies:** Python, FastAPI, Streamlit, NLP, Sentence Transformers, Supabase
+**Tech Stack:** Python | FastAPI | Streamlit | NLP | Sentence Transformers | Supabase
 
-An AI-powered platform that evaluates resumes against job descriptions and provides compatibility scores, skill-gap analysis, semantic matching, and personalized improvement recommendations.
+An AI-powered platform that evaluates resumes against job descriptions and generates compatibility scores, skill-gap analysis, semantic matching, and personalized improvement recommendations.
 
 - Implemented NLP-based skill extraction and semantic similarity matching.
 - Developed a FastAPI backend and Streamlit frontend.
 - Integrated Supabase for authentication and analysis history.
 - Implemented downloadable PDF evaluation reports.
 
-🔗 [View Repository](https://github.com/anshu-raj29/ats-resume-scorer)
+🔗 **[View Repository](https://github.com/anshu-raj29/ats-resume-scorer)**
 
 ### 2. FinGuard – Transaction Monitoring System
 
-**Technologies:** Python, PySpark, Databricks, Apache Kafka, Confluent Cloud, SQL
+**Tech Stack:** Python | PySpark | Databricks | Apache Kafka | Confluent Cloud | SQL
 
-A real-time transaction monitoring and data engineering project designed to process financial transactions and identify potentially suspicious activities.
+A data engineering project designed to process financial transactions and identify potentially suspicious activities through a streaming pipeline.
 
 - Developed a PySpark streaming pipeline on Databricks.
 - Integrated Apache Kafka for transaction data ingestion.
 - Processed transaction records and fraud watchlist data.
 - Organized data processing using Bronze and Silver architecture.
 
-🔗 [View Repository](https://github.com/anshu-raj29/finguard)
+🔗 **[View Repository](https://github.com/anshu-raj29/finguard)**
 
 ### 3. AI Interview Platform
 
-**Technologies:** Python, LangGraph, Groq API, LLMs
+**Tech Stack:** Python | LangGraph | Groq API | LLMs
 
 An AI-powered interview platform designed to facilitate interactive interview experiences using Large Language Models.
 
@@ -132,11 +137,11 @@ An AI-powered interview platform designed to facilitate interactive interview ex
 - Used LangGraph to structure interview interactions.
 - Leveraged Groq API for AI-powered responses.
 
-🔗 [View Repository](https://github.com/anshu-raj29/AI-Interview-Platform)
+🔗 **[View Repository](https://github.com/anshu-raj29/AI-Interview-Platform)**
 
 ### 4. SnapClass – AI Attendance Management System
 
-**Technologies:** Python, Streamlit, Supabase, Dlib, Scikit-learn
+**Tech Stack:** Python | Streamlit | Supabase | Dlib | Scikit-learn
 
 An AI-powered attendance management application that uses facial recognition and machine learning to automate attendance tracking.
 
@@ -145,19 +150,19 @@ An AI-powered attendance management application that uses facial recognition and
 - Integrated Supabase for attendance and database management.
 - Developed an interactive Streamlit interface.
 
-🔗 [View Repository](https://github.com/anshu-raj29/snapclass-ai-attendance)
+🔗 **[View Repository](https://github.com/anshu-raj29/snapclass-ai-attendance)**
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshu-raj29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-raj29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anshu-raj29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-raj29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anshu-raj29&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=anshu-raj29&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
